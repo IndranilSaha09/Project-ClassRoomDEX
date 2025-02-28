@@ -1,0 +1,52 @@
+DevOps roadmap
+---------------
+
+Linux Fundamentals:
+Bash
+File system: ls, cp, mv, rm, permission: chmod, chown, processes: ps, top, kill, packages: apt, yum
+
+Networking concepts : 
+wireshark
+OSI and TCP/IP models, IP addressing and subnetting, DNS and DHCP, HTTP, HTTPS, FTP, and SSH, Firewalls and security groups, ping, traceroute, and netstat
+
+Git:
+clone, commit, push and pull, Branching and merging, Resolving merge conflicts, Working with remote repositories
+
+Programming Languages:
+Python
+Python syntax & data structures, Modules & packages, write and execute python scripts, work with files, Handle errors, Write automation scripts
+
+Cloud Providers;
+AWS/Azure
+Launch, configure and manage virtual servers, Store & manage data, Manage users, groups, and roles, Setup and manage isolated networks
+
+Containerization:
+Docker
+create docker images, starting, stopping & managing containers, write Dockerfiles, run multi-container apps using Docker compose 
+
+Continuous Integration/Deployment :
+Jenkins
+create and manage Jenkins pipelines, write Jenkinsfiles, Integrate automated tests, Automate the build process, Automate the deployment
+
+Orchestration & Management:
+Kubernetes
+Overall architecture, understand key components, manage resources, Scale applications, Networking mode
+
+Networking & Infrastructure services:
+Nginx
+Configure Nginx as a reverse proxy, Configure it to act as a forward proxy, Caching strategies, Configure firewalls & security groups
+
+Configuration Management:
+Ansible
+Write Ansible playbooks, Use roles & modules, Manage Variables & templates
+
+Infrastructure as Code:
+Terraform
+Basic concepts, Terraform configuration files, Terraform modules, Advanced concepts
+
+Monitoring & Logging:
+Prometheus, Grafana
+Architecture and data model, collect metrics, write metrics, setup alerts
+
+
+
